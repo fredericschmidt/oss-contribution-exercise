@@ -3,6 +3,7 @@ from numpy.testing.utils import assert_almost_equal
 
 import preprocess
 
+# add a comment
 
 def test_center():
     # After centering, mean should be the desired mean and the
